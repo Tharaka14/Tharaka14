@@ -5,6 +5,8 @@
 
 ### About Me
 
+I'm a full-stack developer with expertise in front-end and back-end development, crafting scalable web applications and intuitive user experiencesI have experience in freelance web development, designing and developing interactive websites, including projects for universities and businesses.
+
 🔹 Passionate about building web applications that solve real-world problems.  
 🔹 Interested in Web Development, UI/UX, and Cloud Computing.  
 🔹 Actively contributing to open-source projects.  
